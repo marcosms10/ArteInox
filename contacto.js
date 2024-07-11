@@ -24,7 +24,7 @@ function sendEmail() {
     redirect: "follow",
   };
 
-  fetch("https://email-sender-livid-seven.vercel.app/send", requestOptions)
+  fetch("https://email-sender-jet.vercel.app/send", requestOptions)
     .then((response) => response.json())
     .then((result) => {
       if (result?.data?.id) {
