@@ -255,11 +255,11 @@ a {
  .home {
     height: auto;
     padding-top: 80px;
+    margin-top: 0;
   }
   
   .home-container {
     height: auto;
-    margin-top: 0;
   }
 
   
@@ -284,7 +284,6 @@ a {
   
  .slider {
     height: 200px; /* ajusta a altura do slider */
-    margin-top: 0;
   }
   
  .slides {
