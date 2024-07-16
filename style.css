@@ -254,10 +254,11 @@ a {
   /* Alterações para dispositivos small aqui */
  .home {
     height: auto;
+    padding-top: 80px;
+    margin-top: 0;
   }
   
   .home-container {
-    padding-top: 80px;
     height: auto;
   }
 
