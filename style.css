@@ -259,7 +259,6 @@ a {
   
   .home-container {
     height: auto;
-    margin-top: 0;
   }
 
   
@@ -298,6 +297,7 @@ a {
   
  .manual-navigation {
     margin-top: -20px; /* ajusta a margem top do navigation manual */
+    width: 100%;
   }
   
  .manual-btn {
@@ -306,6 +306,7 @@ a {
   
  .navigation-auto {
     margin-top: 180px; /* ajusta a margem top do navigation auto */
+    width: 100%;
   }
   
  .scrollup {
